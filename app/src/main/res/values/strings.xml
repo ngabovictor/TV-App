@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">IsangoStar</string>
+    <string name="title_activity_navigate">NavigateActivity</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="isango_tv_url">http://80.241.215.175:1935/isangostar/isangostar/playlist.m3u8</string>
+    <string name="isango_radio_url">http://80.241.215.175:8000/;stream.mp3</string>
+</resources>
